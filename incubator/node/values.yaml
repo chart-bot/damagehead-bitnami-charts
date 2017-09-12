@@ -1,7 +1,7 @@
 ## Bitnami node image version
 ## ref: https://hub.docker.com/r/bitnami/node/tags/
 ##
-image: experimental/node:6.11.3-r1
+image: experimental/node:6.11.3-r2
 
 ## Git repository http/https
 ##
